@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\bin\Debug\foreach kullanımı1 1120.exe.config
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\bin\Debug\foreach kullanımı1 1120.exe
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\bin\Debug\foreach kullanımı1 1120.pdb
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach kullanımı1 1120.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach kullanımı1 1120.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach_kullanımı1_1120.Form1.resources
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach_kullanımı1_1120.Properties.Resources.resources
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach kullanımı1 1120.csproj.GenerateResource.cache
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach kullanımı1 1120.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach kullanımı1 1120.exe
+C:\Users\User\source\repos\foreach kullanımı1 1120\foreach kullanımı1 1120\obj\Debug\foreach kullanımı1 1120.pdb
